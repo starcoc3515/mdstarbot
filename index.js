@@ -82,4 +82,4 @@ Client.on("messageCreate",message => {
 
 
 
-Client.login("ODgwMTM5MzU0MzA2MTI5OTIw.YSZ7pg.8Fv2m7dQKNVgb0xiEa2M_MVbOrk");
+Client.login("token");
